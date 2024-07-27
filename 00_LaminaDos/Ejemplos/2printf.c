@@ -5,5 +5,5 @@ int main () {
     printf("que fue escrito desde C");
     printf("\n");
     printf("Ya soy todo un programador");
-    printf("\n");
+    print("\n");
 }
