@@ -1,5 +1,9 @@
 # Aprendiendo en lenguaje C
 
+Bienvenido al repositorio, en el que encontraras una sesión de curso en lenguaje C, abarrando temas como variables, operadores, bucles, entrada y salida de datos, estructuras, arreglos y punteros.
+
+Tiene como objetivo tener conocimientos en Métodos Númericos, y posteriormente avanzar en lo que es simulación (proximamente te proporciono más información...)
+
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
