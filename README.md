@@ -1,4 +1,4 @@
-# Aprendiendo en lenguaje C:
+# Aprendiendo en lenguaje C
 
 Bienvenido al repositorio, en el que encontraras una sesión de curso en lenguaje C, abarrando temas como variables, operadores, bucles, entrada y salida de datos, estructuras, arreglos y punteros.
 
